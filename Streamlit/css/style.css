@@ -1,0 +1,9 @@
+body {
+    
+    background-color: #FFFFFF;
+}
+.stButton>button {
+    color: #4F8BF9;
+    height: 3em;
+    width: 18em
+}
